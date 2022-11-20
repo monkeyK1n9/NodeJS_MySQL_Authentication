@@ -1,4 +1,4 @@
-# NodeJS and MySQL authentication systems
+# NodeJS and MySQL authentication system
 
 This is an auth system built with NodeJS and MySQL.
 
